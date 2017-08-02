@@ -3,6 +3,7 @@
 1
 Wordpress, Theme, Formation Utilisateur
 Slack Team Logo
+Github description & Wiki
 
 2
 Buts, objectifs du sites, Messages, public
